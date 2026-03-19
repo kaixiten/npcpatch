@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "com.tobiasmjc.dbcadditions.mixin",
+  "refmap": "mixins.dbcadditions.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.7.11",
+  "mixins": [],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
